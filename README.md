@@ -5,5 +5,6 @@
 
 If you have any suggestions for any of my projects please leave me a message. If I like it we could get in contact and make it a reality.
 
-PS: I absolutely HATE JavaScript and C#(also most things Microsoft).\n
+PS: I absolutely HATE JavaScript and C#(also most things Microsoft)
+
 PS: I LOVE efficiency and security(I don't need a helping hand managing memory) so I preffer C over C++
